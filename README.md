@@ -27,7 +27,7 @@
 
 | Login Screen | Forgot Password | Welcome (Rainbow) | Security Lockout |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/login.png" width="180" alt="Login Screen"> | <img src="screenshots/forgot_password.png" width="180" alt="Forgot Password"> | <img src="screenshots/welcome.png" width="180" alt="Welcome Screen"> | <img src="screenshots/error.png" width="180" alt="Security Lockout"> |
+| <img src="screenshots/login.png" width="180" alt="Login Screen"> | <img src="screenshots/forgot_password.png" width="180" alt="Forgot Password"> | <img src="photo_6145289802291547103_y.jpg" width="180" alt="Welcome Screen"> | <img src="screenshots/error.png" width="180" alt="Security Lockout"> |
 
 ## 🚀 How to Run
 
