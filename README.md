@@ -1,4 +1,4 @@
-**Project Description**:
+# ShadowFoxLogin 🦊
 
 **ShadowFoxLogin** is a modern Android authentication application built with Kotlin and Material Design 3. It features a secure login interface with validation, session management using SharedPreferences, and advanced UI elements. The app demonstrates core Android development skills including Intent navigation, Dialogs, View Binding, and dynamic text styling (Rainbow effect), while implementing security features like login attempt limiting.
 
@@ -67,6 +67,6 @@ ________________________________________________________________________________
 
 Role: Android App Development Intern @ ShadowFox
 
-LinkedIn: [www.linkedin.com/in/vrushabh-ghodke-2873ba228]
+LinkedIn: [[Vrushabh Ghodke](www.linkedin.com/in/vrushabh-ghodke-2873ba228)]
 
 GitHub: [[Vrushabh Ghodke](https://github.com/ghodkevrushabh/)]
