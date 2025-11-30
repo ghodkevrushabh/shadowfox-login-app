@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 * **Language:** Kotlin
-* **IDE:** Android Studio Ladybug (2024.2.1+)
+* **IDE:** Android Studio Otter
 * **UI Toolkit:** XML / View System
 * **Design System:** Material Design 3 (M3)
 * **Architecture:** View Binding
